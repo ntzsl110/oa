@@ -1,0 +1,12 @@
+/.vscode
+/downloads
+/pdf
+/venv
+/soft
+/project/.vscode
+/*.exe
+/logs
+__pycache__
+/driver
+
+

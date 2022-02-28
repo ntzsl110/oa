@@ -1,0 +1,11 @@
+[development]
+
+brower.driver = "./driver/chromedriver.exe"
+
+oa.login_number = "1087" # oa登陆工号
+oa.login_password = "zslyh815" # oa登陆密码
+
+oa.email.download_path = "./downloads" # oa邮件下载目录
+oa.url = "http://oa.nt2191.com:7001/defaultroot/login.jsp#" # oa网址
+
+
